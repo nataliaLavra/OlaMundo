@@ -1,2 +1,2 @@
-# OlaMundo
- Repositório Curso Guanabara
+# Olá, mundo!!
+ Repositório do Curso de Git e GitHub - Guanabara
